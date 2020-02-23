@@ -1,1 +1,8 @@
 >to install opencv====> pip install opencv-python
+
+> WHY Grayscale conversion??
+===>RGB image ko data complex huncha
+   >euta image ma 3 layers huncha.. yeslai simplify garna gray scale conversion
+> Black=0px, White=1px;
+> RGB= 24bits image && Gray = 8bit image.
+ 
