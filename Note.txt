@@ -9,4 +9,5 @@
 
 
 
- 
+>Linear interplotation used to shrink or reduce the size of image 
+>CubiC interpolation to increase
