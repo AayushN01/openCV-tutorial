@@ -8,6 +8,7 @@ cv2.imshow('Original Image', img)
 cv2.waitKey(0)
 
 M = np.ones(img.shape, dtype="uint8") * 150 #call ones matrix imgshape function called, ie original img ko size ko ones matrix create huncha)
+#M1 = np.zeros(img.shape, dtype="uint8") + 150
 
 added = cv2.add(img, M)
 cv2.imshow('Added', added)
