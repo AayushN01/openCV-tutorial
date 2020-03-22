@@ -11,3 +11,15 @@
 
 >Linear interplotation used to shrink or reduce the size of image 
 >CubiC interpolation to increase
+
+>>EDGE DETECTION
+   technique used (1)sobel
+                     collect different height width pixels called Sobel edges
+                     poor technique due to high noise
+                     not efective
+                  (2)LAplacian method
+                     Better but still more noise
+                  (3) Canny Edge DETECTION`
+                  ``    more effective
+                        effectively detects edges
+                        edges depends on threshold
